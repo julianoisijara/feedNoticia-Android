@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Feed de Notícias</string>
+    <string name="no_internet_connection">Sem Conexão</string>
+    <string name="no_feeds">Sem Feeds</string>
+    <string name="busca_menu">Busca</string>
+    <string name="busca_titulo">Busca de Notícias</string>
+    <string name="busca_default" translatable="false"> </string>
+    <string name="busca_key" translatable="false">q</string>
+    <string name="busca_topico">Sua Pesquisa</string>
+
+</resources>
