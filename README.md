@@ -3,16 +3,17 @@
 
 Este projeto é sobre a combinação de várias ideias e habilidades. Elas incluem:
 
-Conectar-se a uma API
 
-Analisar a resposta JSON
+-Conectar-se a uma API
 
-Tratar casos de erro com primor
+-Analisar a resposta JSON
 
-Atualizar informações regularmente
+-Tratar casos de erro com primor
 
-Usar um AsyncTask
+-Atualizar informações regularmente
 
-Realizar operações de rede independentemente do ciclo de vida da atividade
+-Usar um AsyncTask
 
-Usar a classe Uri.Builder para adicionar parâmetros de consulta à URL
+-Realizar operações de rede independentemente do ciclo de vida da atividade
+
+-Usar a classe Uri.Builder para adicionar parâmetros de consulta à URL
